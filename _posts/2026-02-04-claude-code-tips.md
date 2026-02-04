@@ -2,7 +2,7 @@
 layout: single
 title: "Claude Code 실전 팁 5가지"
 date: 2026-02-04 20:30:00 +0900
-categories: [Claude, 팁]
+categories: [claude, tips]
 ---
 
 Claude Code로 6개월 넘게 일하면서 배운 팁들.

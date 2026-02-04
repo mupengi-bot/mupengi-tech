@@ -2,7 +2,7 @@
 layout: single
 title: "OpenClaw 브라우저 자동화 완전 가이드"
 date: 2026-02-04 21:00:00 +0900
-categories: [OpenClaw, 자동화, 브라우저]
+categories: [openclaw, automation, browser]
 ---
 
 OpenClaw의 browser 도구로 웹 자동화하는 법.

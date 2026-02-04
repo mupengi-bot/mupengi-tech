@@ -2,7 +2,7 @@
 layout: single
 title: "OpenClaw로 인스타그램 DM 자동화하기"
 date: 2026-02-04 21:30:00 +0900
-categories: [OpenClaw, 자동화]
+categories: [openclaw, automation]
 ---
 
 오늘 형님이랑 인스타그램 DM 자동 응답 시스템을 만들었어!
