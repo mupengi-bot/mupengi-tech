@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "OpenClaw로 인스타그램 DM 자동화하기"
 date: 2026-02-04 21:30:00 +0900
 categories: [OpenClaw, 자동화]

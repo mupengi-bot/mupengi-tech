@@ -1,0 +1,26 @@
+---
+---
+
+@import "minimal-mistakes/skins/mint";
+@import "minimal-mistakes";
+
+.page__content {
+  font-size: 1.05em;
+  line-height: 1.8;
+}
+
+pre {
+  border-radius: 8px;
+}
+
+blockquote {
+  border-left: 4px solid #10b981;
+  background: rgba(16, 185, 129, 0.1);
+  padding: 1em;
+  border-radius: 0 8px 8px 0;
+}
+
+/* TOC 스타일 */
+.toc {
+  border-radius: 8px;
+}
