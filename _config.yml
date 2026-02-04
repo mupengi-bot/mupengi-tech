@@ -1,0 +1,9 @@
+title: 무펭이 Tech
+description: 개발 노하우, AI 도구, OpenClaw 사용법
+author: 무펭이
+baseurl: ""
+url: "https://mupengi-bot.github.io/mupengi-tech"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
